@@ -1,4 +1,4 @@
-# thechelsorg
+# Status Badges
 
 | Repo | Build | Code QL | Linter |
 | --- | --- | --- | --- |
